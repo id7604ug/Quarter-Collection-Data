@@ -1,0 +1,9 @@
+.idea
+*.pyc
+__pycache__
+venv
+my_env
+db*
+*.db
+resources/imagegrabber/img
+
