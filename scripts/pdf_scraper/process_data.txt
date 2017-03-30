@@ -1,0 +1,100 @@
+State: DELAWARE Statehood: December 7, 1787 Coin Release: January 4, 1999 Release Order: 1 Total Mintage for Circulation: 774,824,000
+
+State: Pennsylvania Statehood: December 12, 1787 Coin Release: March 8, 1999 Release Order: 2 Total Mintage for Circulation: 707,332,000
+
+State: New Jersey Statehood: December 18, 1787 Coin Release: May 17, 1999 Release Order: 3 Total Mintage for Circulation: 662,228,000
+
+State: Georgia Statehood: January 2, 1788 Coin Release: July 19, 1999 Release Order: 4 Total Mintage for Circulation: 939,932,000
+
+State: CONNECTICUT Statehood: January 9, 1788 Coin Release: October 12, 1999 Release Order: 5 Total Mintage for Circulation: 1,346,624,000
+
+State: MASSACHUSETTS Statehood: February 6, 1788 Coin Release: January 3, 2000 Release Order: 6 Total Mintage for Circulation: 1,163,784,000
+
+State: Maryland Statehood: April 28, 1788 Coin Release: March 13, 2000 Release Order: 7 Total Mintage for Circulation: 1,234,732,000
+
+State: South Carolina Statehood: May 23, 1788 Coin Release: May 22, 2000 Release Order: 8 Total Mintage for Circulation: 1,308,784,000
+
+State: New Hampshire Statehood: June 21, 1788 Coin Release: August 7, 2000 Release Order: 9 Total Mintage for Circulation: 1,169,016,000
+
+State: Virginia Statehood: June 25, 1788 Coin Release: October 16, 2000 Release Order: 10 Total Mintage for Circulation: 1,594,616,000
+
+State: New York Statehood: July 26, 1788 Coin Release: January 2, 2001 Release Order: 11 Total Mintage for Circulation: 1,275,040,000
+
+State: NORTH CAROLINA Statehood: November 21, 178 Coin Release: March 12, 2001 Release Order: 12 Total Mintage for Circulation: 1,055,476,000
+
+State: RHODE ISLAND Statehood: May 29, 1790 Coin Release: May 21, 2001 Release Order: 13 Total Mintage for Circulation: 870,100,000
+
+State: Vermont Statehood: March 4, 1791 Coin Release: August 6, 2001 Release Order: 14 Total Mintage for Circulation: 882,804,000
+
+State: Kentucky Statehood: June 1, 1792 Coin Release: October 15, 2001 Release Order: 15 Total Mintage for Circulation: 723,564,000
+
+State: Tennessee Statehood: June 1, 1796 Coin Release: January 2, 2002 Release Order: 16 Total Mintage for Circulation: 648,068,000
+
+State: Ohio Statehood: March 1, 1803 Coin Release: March 11, 2002 Release Order: 17 Total Mintage for Circulation: 632,032,000
+
+State: Louisiana Statehood: April 30, 1812 Coin Release: May 20, 2002 Release Order: 18 Total Mintage for Circulation: 764,204,000
+
+State: INDIANA Statehood: December 11, 1816 Coin Release: August 2, 2002 Release Order: 19 Total Mintage for Circulation: 689,800,000
+
+State: MISSISSIPPI Statehood: December 10, 1817 Coin Release: October 15, 2002 Release Order: 20 Total Mintage for Circulation: 579,600,000
+
+State: Illinois Statehood: December 3, 1818 Coin Release: January 2, 2003 Release Order: 21 Total Mintage for Circulation: 463,200,000
+
+State: ALABAMA Statehood: June 15, 1836 Coin Release: March 17, 2003 Release Order: 22 Total Mintage for Circulation: 457,400,000
+
+State: Maine Statehood: March 15, 1820 Coin Release: June 2, 2003 Release Order: 23 Total Mintage for Circulation: 448,800,000
+
+State: MISSOURI Statehood: August 10, 1821 Coin Release: August 4, 2003 Release Order: 24 Total Mintage for Circulation: 453,200,000
+
+State: Arkansas Statehood: June 15, 1836 Coin Release: October 20, 2003 Release Order: 25 Total Mintage for Circulation: 457,800,000
+
+State: MICHIGAN Statehood: January 26, 1837 Coin Release: January 26, 2004 Release Order: 26 Total Mintage for Circulation: 459,600,000
+
+State: FLORIDA Statehood: March 3, 1845 Coin Release: March 29, 2004 Release Order: 27 Total Mintage for Circulation: 481,800,000
+
+State: TEXAS Statehood: December 29, 1845 Coin Release: June 1, 2004 Release Order: 28 Total Mintage for Circulation: 541,800,000
+
+State: Iowa Statehood: December 28, 1846 Coin Release: August 30, 2004 Release Order: 29 Total Mintage for Circulation: 465,200,000
+
+State: Wisconsin Statehood: May 29, 1848 Coin Release: October 25, 2004 Release Order: 30 Total Mintage for Circulation: 453,200,000
+
+State: California Statehood: September 9, 1850 Coin Release: January 31, 2005 Release Order: 31 Total Mintage for Circulation: 520,400,000
+
+State: Minnesota Statehood: May 11, 1858 Coin Release: April 4, 2005 Release Order: 32 Total Mintage for Circulation: 488,000,000
+
+State: Oregon Statehood: February 14, 1859 Coin Release: June 6, 2005 Release Order: 33 Total Mintage for Circulation: 720,200,000
+
+State: Kansas Statehood: January 29, 1861 Coin Release: August 29, 2005 Release Order: 34 Total Mintage for Circulation: 563,400,000
+
+State: West Virginia Statehood: June 20, 1863 Coin Release: October 14, 2005 Release Order: 35 Total Mintage for Circulation: 721,600,000
+
+State: Nevada Statehood: October 31, 1864 Coin Release: January 31, 2006 Release Order: 36 Total Mintage for Circulation: 589,800,000
+
+State: Nebraska Statehood: March 1, 1867 Coin Release: April 3, 2006 Release Order: 37 Total Mintage for Circulation: 594,400,000
+
+State: Colorado Statehood: August 1, 1876 Coin Release: June 14, 2006 Release Order: 38 Total Mintage for Circulation: 569,000,000
+
+State: North Dakota Statehood: November 2, 1889 Coin Release: August 28, 2006 Release Order: 39 Total Mintage for Circulation: 664,800,000
+
+State: South Dakota Statehood: November 2, 1889 Coin Release: November 6, 2006 Release Order: 40 Total Mintage for Circulation: 510,800,000
+
+State: Monta na Statehood: November 8, 1889 Coin Release: January 29, 2007 Release Order: 41 Total Mintage for Circulation: 513,240,000
+
+State: Washington Statehood: November 11, 1889 Coin Release: April 2, 2007 Release Order: 42 Total Mintage for Circulation: 545,200,000
+
+State: Idaho Statehood: July 3, 1890 Coin Release: June 4, 2007 Release Order: 43 Total Mintage for Circulation: 581,400,000
+
+State: Wyoming Statehood: July 10, 1890 Coin Release: September 4, 2007 Release Order: 44 Total Mintage for Circulation: 564,400,000
+
+State: Utah Statehood: January 4, 1896 Coin Release: November 5, 2007 Release Order: 45 Total Mintage for Circulation: 508,200,000
+
+State: Oklahoma Statehood: November 16, 1907 Coin Release: January 28, 2008 Release Order: 46 Total Mintage for Circulation: 416,600,000
+
+State: New Mexico Statehood: January 6, 1912 Coin Release: April 7, 2008 Release Order: 47 Total Mintage for Circulation: 488,600,000
+
+State: Arizona Statehood: February 14, 1912 Coin Release: June 2, 2008 Release Order: 48 Total Mintage for Circulation: 509,600,000
+
+State: Alaska Statehood: January 3, 1959 Coin Release: August 25, 2008 Release Order: 49 Total Mintage for Circulation: 505,800,000
+
+State: Hawa ii Statehood: August 21, 1959 Coin Release: November 3, 2008 Release Order: 50 Total Mintage for Circulation: 517,600,000
+

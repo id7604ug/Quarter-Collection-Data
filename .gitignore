@@ -5,5 +5,4 @@ venv
 my_env
 db*
 *.db
-resources/imagegrabber/img
-
+scripts/imagegrabber/img
