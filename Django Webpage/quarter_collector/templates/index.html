@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  {% for quarter in quarter_list %}
+    <div>
+      {{ quarter.BooleanField }}
+    </div>
+  {% endfor %}
+
+{% endblock %}
